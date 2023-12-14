@@ -5,7 +5,7 @@ Me chamo Ana Clara, Tenho 20 anos, Atualmente Trabalho como Programadora Trainee
 
 ## **Linguagens e Ferramentas**  
 
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="30" src="https://icons.iconarchive.com/icons/tatice/cristal-intense/48/Java-icon.png"></code>
